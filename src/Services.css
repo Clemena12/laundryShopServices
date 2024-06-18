@@ -1,0 +1,163 @@
+.services {
+  padding: 80px 20px; /* Adjust padding to accommodate fixed navbar */
+}
+
+.service-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.service-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  width: 200px;
+  text-align: left;
+  background-color: rgb(46, 154, 208);
+}
+
+.service-card h3 {
+  margin-top: 0;
+}
+
+.service-card button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.service-card button:hover {
+  background-color: #45a049;
+}
+
+
+
+
+
+
+
+
+
+/* Services.css */
+
+.services {
+  padding: 80px 20px; /* Adjust padding to accommodate fixed navbar */
+}
+
+.service-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.service-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  width: 200px;
+  text-align: left;
+}
+
+.service-card h3 {
+  margin-top: 0;
+}
+
+.service-card button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.service-card button:hover {
+  background-color: #45a049;
+}
+
+.service-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Services.css */
+/* 
+.Services {
+    padding: 180px;
+    text-align: center;
+  }
+  
+  .Services h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .service-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .service-card {
+    background-color: transparent;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    text-align: left;
+    margin: 0;
+  }
+  
+  .service-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .service-card h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .service-card p {
+    font-size: 1em;
+    margin-bottom: 10px;
+  }
+  
+  .service-card button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  .service-card button:hover {
+    background-color: #0056b3;
+  }
+   */

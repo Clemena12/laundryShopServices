@@ -1,0 +1,104 @@
+.contact {
+  padding: 90px 40px; /* Adjust padding to accommodate fixed navbar */
+  /* min-height: calc(100vh - 160px);  */
+  height: 100vh;
+  box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-image: url('./components/larundry.jpg'); /* Add your background image */
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the background image */
+  position: relative;
+  text-align: center;
+}
+
+.contact::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Add a dark overlay */
+  z-index: 1;
+}
+
+.contact h2,
+.contact p {
+  position: relative;
+  z-index: 2;
+}
+
+.contact h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
+.contact p {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .contact {
+  padding: 80px 20px; /* Adjust padding to accommodate fixed navbar */
+/* }
+
+.contact h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.contact p {
+  font-size: 1.2em;
+  margin-bottom: 15px;
+}
+
+ */
+
+ 
+
+
+
+
+/* Contact.css */
+/* 
+.Contact {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .Contact h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .Contact p {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+   */
+  /* Adjustments for desktop screens */
+  /* @media (min-width: 768px) {
+    .Contact {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+  } */

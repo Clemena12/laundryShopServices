@@ -1,0 +1,108 @@
+Pages.css
+
+.Home, .Contact {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .Home h2, .Contact h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .Home p, .Contact p {
+    font-size: 1.2em;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .Contact p {
+    margin: 5px 0;
+  }
+  
+  .Contact p:first-of-type {
+    margin-top: 20px;
+  }
+  
+
+
+
+
+   /* Pages.css */
+/* 
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
+  /* Navbar styles */
+  /* nav {
+    background-color: #007bff;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 1448px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: color 0.3s;
+  }
+  
+  nav ul li a:hover {
+    color: #ffdd57;
+  }
+  
+  nav ul li a.active {
+    border-bottom: 2px solid #ffdd57;
+  }
+  
+  /* Footer styles */
+  /* footer {
+    background-color: #282c34;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+   */ 

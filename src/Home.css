@@ -1,0 +1,107 @@
+.home {
+  padding: 80px 20px;
+  height: 100vh;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  text-align: center;
+  transition: background-image 1s ease-in-out; /* Smooth transition for background image change */
+}
+
+.home h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.home p {
+  font-size: 1.2em;
+  margin-bottom: 15px;
+}
+
+
+
+
+/* .home {
+  padding: 80px 20px; 
+  height: 100vh;
+  box-sizing: border-box; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-image: url('./components/larundry.jpg');
+    background-size: cover;
+  background-position: center; 
+  position: relative;
+  text-align: center;
+}
+
+.home h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+.home p {
+  font-size: 1.2em;
+  margin-bottom: 15px;
+}
+
+
+
+
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+/* .Home {
+    background-color: #282c34;
+    color: white;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+  } */
+
+  /* Home.css */
+/* 
+.Home {
+    padding: 20px;
+    text-align: center;
+    
+  }
+  
+  .Home h2 {
+    font-size: 2.5em;
+    /* margin-bottom: 20px; */
+    /* text-align: right;
+  }
+  
+  .Home p {
+    font-size: 1.2em;
+    /* margin-bottom: 15px; */
+    /* text-align: right;
+  } */
+  
+  /* Adjustments for fixed navigation */
+  /* nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* Ensure the navbar appears above other content */
+  /* }
+   */ 
